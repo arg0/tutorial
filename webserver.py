@@ -21,3 +21,6 @@ while True:
 
     client_connection.sendall(http_response)
     client_connection.close()
+
+def using_snippis(self):
+    pass
